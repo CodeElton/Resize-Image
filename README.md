@@ -48,7 +48,6 @@ mi_proyecto/
 └── resizing.py       # Script principal que redimensiona las imágenes
 
 
-
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, sigue estos pasos:
 Haz un fork del proyecto.
@@ -56,10 +55,6 @@ Crea una nueva rama para tus cambios:
 git checkout -b feature/nueva-funcionalidad
 Realiza tus cambios y haz commit con un mensaje claro.
 Envía un pull request para revisar y fusionar tus cambios.
-
-
-📝 Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo LICENSE.
 
 
 📢 ¡Gracias por usar el Redimensionador de Imágenes!
