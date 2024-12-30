@@ -19,10 +19,10 @@ pip install pillow
 🚀 Pasos para usar el proyecto 
 
 1. Clonar el repositorio 🖥️
-> git clone https://github.com/tuusuario/mi_proyecto.git
+> https://github.com/CodeElton/resize-images.git
 
 2. Navegar al directorio del proyecto 🏠
-> cd mi_proyecto
+> cd resize-images
 
 3. Instalar las dependencias 📦
 > pip install pillow
