@@ -42,7 +42,6 @@ pip install pillow
 
 🗂️ Estructura del Proyecto
 mi_proyecto/
-├── .venv             # Entorno Virtual
 ├── config            # Configuraciones del script
 ├── README.md         # Este archivo
 └── resizing.py       # Script principal que redimensiona las imágenes
